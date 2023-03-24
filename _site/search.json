@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my_blog",
+    "title": "Tom’s Blog",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 22, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
@@ -25,6 +25,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Welcome to my data-driven world! As a passionate data scientist, I thrive on designing and architecting innovative solutions that solve real-life problems. My love for MLOps fuels my desire to find gaps in current processes and automate them for maximum efficiency. I’m not content with just keeping up with industry standards – I want to set them! I’m constantly exploring new technologies and methods, experimenting with cutting-edge tools, and pushing the limits of what’s possible. Join me on this journey as I share my insights, challenges, and triumphs in the exciting world of data science and MLOps. Together, we’ll take on the toughest challenges and discover the secrets to unlocking data’s full potential!"
   }
 ]
